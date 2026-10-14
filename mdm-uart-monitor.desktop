@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=MDM UART Monitor
+GenericName=Mobile Diagnostics UART Terminal
+Comment=Mobile Repair & SoC Bootloader Diagnostic Serial Monitor
+Exec=/home/shaanair/Projects/MobileDoctor/run.sh
+Icon=/home/shaanair/Projects/MobileDoctor/assets/UART_Logo.png
+Terminal=false
+Categories=Development;Electronics;Utility;
+Keywords=UART;Serial;Qualcomm;MediaTek;Samsung;Android;Bootloader;
+StartupNotify=true

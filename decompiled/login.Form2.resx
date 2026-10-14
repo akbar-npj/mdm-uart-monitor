@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="$this.Icon" mimetype="application/x-microsoft.net.object.binary.base64"><value>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBD
+dWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0
+ZW0uRHJhd2luZy5JY29uAgAAAAhJY29uRGF0YQhJY29uU2l6ZQcEAhNTeXN0ZW0uRHJhd2luZy5T
+aXplAgAAAAIAAAAJAwAAAAX8////E1N5c3RlbS5EcmF3aW5nLlNpemUCAAAABXdpZHRoBmhlaWdo
+dAAACAgCAAAAAAAAAAAAAAAPAwAAAD4QAAACAAABAAEAHyAAAAEAIAAoEAAAFgAAACgAAAAfAAAA
+QAAAAAEAIAAAAAAAgA8AAMMOAADDDgAAAAAAAAAAAAD+/v7//v7+//7+/v//////7+/v/8jIyP/B
+wcH/wcHB/8HBwf/BwcH/wcHB/8HBwf/BwcH/wMDA/9jY2P//////+/v7/9ra2v/Q0ND/8/Pz////
+/////////v7+//7+/v/////////////////////////////////+/v7///////z8/P/8/Pz/8PDw
+/6Wlpf+9vb3/yMjI/8jIyP/IyMj/yMjI/8jIyP/IyMj/yMjI/8jIyP/Y2Nj/0tLS/6ioqP+wsLD/
+uLi4/6Wlpf/BwcH/8vLy///////6+vr//f39///////////////////////+/v7////////////+
+/v7//f39/9PT0//ExMT////////////////////////////////////////////n5+f/qqqq/7Oz
+s//l5eX/3t7e/9TU1P/s7Oz/xMTE/6Kiov/Pz8///Pz8//39/f/+/v7/////////////////////
+///////////////////////Pz8//srKy/+vr6//09PT/vb29/7W1tf+1tbX/tbW1/7y8vP/BwcH/
+o6Oj/9zc3P//////4eHh/6Kiov+tra3/wsLC///////t7e3/rq6u/7a2tv/IyMj/u7u7/8PDw/+4
+uLj/tbW1/9ra2v//////////////////////yMjI/6Ojo//l5eX/4uLi/5GRkf/U1NT/3t7e/9/f
+3/+srKz/lZWV//Ly8v///////////8zMzP/FxcX/6+vr/62trf////////////39/f+3t7f/jIyM
+/93d3f/j4+P/3t7e/6+vr/+wsLD//////////////////////8rKyv/Kysr///////v7+//FxcX/
+r6+v//b29v/T09P/g4OD/6Ojo/+zs7P/srKy/7Ozs/+ZmZn/lZWV/6ioqP+Kior/s7Oz/7Ozs/+z
+s7P/sLCw/4CAgP+2trb/9/f3/9TU1P+xsbH/8PDw/////////////v7+///////Kysr/yMjI////
+////////9PT0/5eXl//Gxsb/pKSk/9/f3//j4+P/4uLi/+Pj4//j4+P/4+Pj/+Pj4//j4+P/5OTk
+/+Pj4//j4+P/4uLi/+Li4v/j4+P/tra2/8LCwv+ioqL/y8vL//7+/v/+/v7//Pz8//7+/v//////
+ysrK/8jIyP//////+Pj4/7CwsP/Jycn/3Nzc/7a2tv//////////////////////////////////
+/////////////////////////////////////////9zc3P+5ubn/7e3t/6Wlpf/d3d3///////T0
+9P///////////8rKyv/IyMj//////+Pj4/+Pj4//vb29/6ampv+wsLD/////////////////////
+/////////////////////////////Pz8//n5+f/////////////////c3Nz/kpKS/7+/v/+kpKT/
+rq6u///////7+/v////////////Kysr/yMjI///////7+/v/3d3d/9PT0/+4uLj/rq6u////////
+////////////////////////////////////////////////////////////////////2NjY/56e
+nv/T09P/1dXV/+/v7//+/v7/////////////////ysrK/8jIyP//////////////////////9fX1
+/56env+vr6//ubm5/7m5uf+5ubn/ubm5/7W1tf+1tbX/t7e3/7Ozs/+5ubn/ubm5/7m5uf+5ubn/
+tra2/5iYmP/a2tr//////////////////////////////////////8rKyv/IyMj////////////+
+/v7///////////+9vb3/s7Oz/9ra2v/Z2dn/2dnZ/9vb2/+xsbH/qamp/8fHx/+Xl5f/29vb/9ra
+2v/a2tr/2tra/8zMzP+enp7//f39///////+/v7////////////////////////////Kysr/x8fH
+//7+/v/+/v7/////////////////wcHB/9LS0v/////////////////29vb/rq6u/8/Pz//x8fH/
+np6e//Hx8f/////////////////y8vL/qKio/+/v7//6+vr/////////////////////////////
+////ysrK/8bGxv/8/Pz//v7+/////////////////8HBwf/Q0ND/////////////////wcHB/6+v
+r//39/f/+fn5/9DQ0P+vr6///f39////////////8PDw/6SkpP/k5OP/9/f3////////////////
+/////////////////8nJyf/IyMj////////////////////////////BwcH/0dHR////////////
+/////62trf/g4OD/t7e3/6Kiov/r6+v/p6en//Ly8v////////////Dw8P+pqan/+vr6//7+/v//
+///////////////////////////////Kysr/yMjI////////////////////////////wcHB/7+/
+v//9/f3///////////+1tbX/ysrK/6mpqf+xsbH/ysrK/6enp//29vb////////////f39//o6Oj
+//39/f///////v7+//////////////////7+/v//////ysrK/8jIyP//////////////////////
+/////+np6f+qqqr/rKys/9vb2//8/Pz/5ubm/5eXl/+bm5v/tra2/4qKiv/Kysr//////+np6f+4
+uLj/o6Oj/9TU1P///////////////////////v7+//7+/v///////////8rKyv/IyMj/////////
+///////////////////+/v7//Pz8/93d3f+tra3/qqqq/9jY2P/g4OD/1NTU/+Li4v/T09P/5ubm
+/7i4uP+lpaX/zc3N//f39//////////////////////////////////+/v7////////////Kysr/
+yMjI///////////////////////+/v7//Pz8/////////////v7+/+Dg4P+wsLD/qamp/9bW1v/i
+4uL/tbW1/6mpqf/T09P/+Pj4//////////////////////////////////////////////////7+
+/v//////ysrK/8jIyP/////////////////+/v7//v7+///////+/v7/////////////////////
+/+Tk5P+zs7P/qamp/9XV1f/6+vr///////7+/v/+/v7/////////////////////////////////
+/v7+/////////////////8rKyv/IyMj////////////+/v7////////////////////////////+
+/v7///////////////////////n5+f/W1tb//Pz8///////+/v7/+vr6//z8/P//////////////
+/////////v7+///////////////////////Jycn/x8fH//7+/v/+/v7/////////////////////
+//////////////////7+/v/+/v7//v7+///////29vb/p6en//f39/////////////39/f/7+/v/
++/v7//7+/v///////v7+////////////////////////////ysrK/7i4uP/v7+7//v7+////////
+///////////////////////////////9/f3/6unp//Ly8v//////9/f3/6ioqP/39/f/////////
+/////////f39//v7+//7+/v//f39/////////////////////////////////8rKyv+/vr7/9PT0
+/////////////////////////////////////////////v7+//Lx8f/39/f///////f39/+oqKj/
+9/f3///////////////////////+/v7//Pz8//v7+//+/v7////////////////////////////K
+ysr/ycnJ////////////////////////////////////////////////////////////////////
+///39/f/qKio//f39//////////////////+/v7////////////9/f3/+/v7//39/f//////////
+////////////ycnJ/5GRkf+ysrL/sbGx/7Gxsf+xsbH/sbGx/7Gxsf+xsbH/sbGx/7Gxsf+xsbH/
+sbGx/7Gxsf+xsbH/qqqq/5KSkv/5+fn////////////+/v7///////////////////////39/f/7
++/v//v7+//7+/v/+/v7//////8nJyf+0tLT/4+Pj/+Pj4//j4+P/4+Pj/+Li4v/i4uL/4uLi/+Pj
+4//j4+P/4+Pj/+Pj4//j4+P/4+Pj/9zc3P+fn5//9/f3//7+/v/+/v7/////////////////////
+/////////////v7+//7+/v/+/v7////////////U1NT/tra2////////////////////////////
+/Pz8///////////////////////////////////////o6Oj/p6en//r6+v/8/Pz/////////////
+/////////////////////////////////////v7+////////////9/f3/6+vr/+rq6v/tLS0/7S0
+tP+0tLT/tLS0/7Kysv+zs7P/tLS0/7S0tP+0tLT/tLS0/7S0tP+ysrL/oqKi/9fX1////////v7+
+//7+/v///////////////////////////////////////v7+///////9/f3//f39///////7+/v/
+5OTk/9/f3//f39//3t7e/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//4ODg/+/v7///
+/////////////////////v7+/////////////////////////////v7+/////////////Pz8//r6
++v/8/Pz/////////////////////////////////////////////////////////////////////
+///////////////////////////////////////+/v7//////////////////v7+////////////
+///////////9/f3/+vr6//z8/P/+/v7//v7+////////////////////////////////////////
+//////////7+/v////////////////////////////////////////////z8/P/19fX//Pz8////
+/////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACw==</value></data><data name="fastColoredTextBox1.Text" xml:space="preserve"><value>==========================================================================
+          MDM UART MONITOR - PURCHASE AGREEMENT
+==========================================================================
+
+Please read this agreement carefully before purchasing MDM UART Monitor.
+
+By purchasing and using this software, you acknowledge and agree to the following terms:
+
+1. PURPOSE OF THE SOFTWARE
+
+MDM UART Monitor is a professional UART Log Monitoring and Analysis Tool 
+designed to help mobile repair technicians read, monitor, save, search, and analyze UART boot logs.
+
+This software is an assistant for technicians and is NOT an automatic mobile repair solution.
+
+---------------------------------------------------------
+
+2. TECHNICAL KNOWLEDGE REQUIRED
+
+This software is intended for users who have basic knowledge of:
+
+• Mobile Repairing
+• UART Boot Logs
+• Hardware Diagnostics
+• Boot Sequence Analysis
+
+Without sufficient technical knowledge, the information displayed by the software 
+may not be properly understood or interpreted.
+
+---------------------------------------------------------
+
+3. NO AUTOMATIC FAULT DETECTION
+
+MDM UART Monitor DOES NOT automatically detect or identify every hardware or software fault.
+
+The software displays UART logs and may help technicians identify possible issues such as:
+
+• Boot sequence failures
+• PMIC / Power initialization problems
+• Memory (eMMC/UFS) related errors
+• Bootloader failures
+• Security or authentication errors
+• Communication and protocol errors
+• Other diagnostic information available through UART logs
+
+However, not every mobile fault produces a UART log, and many hardware problems 
+cannot be diagnosed using UART alone.
+
+---------------------------------------------------------
+
+4. NO GUARANTEE OF REPAIR
+
+Purchasing this software does NOT guarantee that every mobile phone can be diagnosed or repaired.
+
+Successful diagnosis depends on several factors including:
+
+• Device model
+• Boot stage
+• UART output availability
+• Hardware condition
+• Technician's experience
+• Correct interpretation of UART logs
+
+---------------------------------------------------------
+
+5. USER RESPONSIBILITY
+
+The user is solely responsible for analyzing UART logs and making repair decisions.
+
+MDM TECHNOLOGY is not responsible for any incorrect diagnosis, repair failure, 
+financial loss, or damage resulting from the interpretation or misuse of UART log data.
+
+---------------------------------------------------------
+
+6. SOFTWARE CAPABILITIES
+
+This software is designed to:
+
+✔ Read UART Logs
+✔ Display UART Logs
+✔ Save Logs
+✔ Search Logs
+✔ Assist in Technical Analysis
+
+This software is NOT designed to:
+
+✘ Automatically repair devices
+✘ Automatically identify every hardware fault
+✘ Replace professional repair knowledge
+✘ Guarantee successful repairs
+
+---------------------------------------------------------
+
+7. PURCHASE POLICY
+
+Please purchase this software only if you clearly understand its purpose and limitations.
+
+Purchasing this software means you are buying a professional UART log analysis tool—
+not an automatic mobile fault detection or repair solution.
+
+---------------------------------------------------------
+
+8. REFUND POLICY
+
+Due to the digital nature of this software, NO refund or cancellation will be provided after activation or delivery.
+
+Refund requests based on expectations beyond the advertised features will not be accepted.
+
+---------------------------------------------------------
+
+9. ACCEPTANCE
+
+By purchasing, activating, or using MDM UART Monitor, you confirm that:
+
+✔ You have read this agreement.
+✔ You understand the purpose and limitations of the software.
+✔ You agree to all the terms mentioned above.
+
+==========================================================================
+                MDM TECHNOLOGY
+        Professional Mobile Repair Solutions
+==========================================================================
+</value></data>
+  <data name="fastColoredTextBox1.ServiceColors" mimetype="application/x-microsoft.net.object.binary.base64"><value>AAEAAAD/////AQAAAAAAAAAMAgAAAFdGYXN0Q29sb3JlZFRleHRCb3gsIFZlcnNpb249Mi4xNi4y
+NC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWZiOGFhMTJiOTk0ZWY2MWIMAwAA
+AFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1Ymxp
+Y0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAACJGYXN0Q29sb3JlZFRleHRCb3hOUy5TZXJ2
+aWNlQ29sb3JzBgAAACg8Q29sbGFwc2VNYXJrZXJGb3JlQ29sb3I+a19fQmFja2luZ0ZpZWxkKDxD
+b2xsYXBzZU1hcmtlckJhY2tDb2xvcj5rX19CYWNraW5nRmllbGQqPENvbGxhcHNlTWFya2VyQm9y
+ZGVyQ29sb3I+a19fQmFja2luZ0ZpZWxkJjxFeHBhbmRNYXJrZXJGb3JlQ29sb3I+a19fQmFja2lu
+Z0ZpZWxkJjxFeHBhbmRNYXJrZXJCYWNrQ29sb3I+a19fQmFja2luZ0ZpZWxkKDxFeHBhbmRNYXJr
+ZXJCb3JkZXJDb2xvcj5rX19CYWNraW5nRmllbGQEBAQEBAQUU3lzdGVtLkRyYXdpbmcuQ29sb3ID
+AAAAFFN5c3RlbS5EcmF3aW5nLkNvbG9yAwAAABRTeXN0ZW0uRHJhd2luZy5Db2xvcgMAAAAUU3lz
+dGVtLkRyYXdpbmcuQ29sb3IDAAAAFFN5c3RlbS5EcmF3aW5nLkNvbG9yAwAAABRTeXN0ZW0uRHJh
+d2luZy5Db2xvcgMAAAACAAAABfz///8UU3lzdGVtLkRyYXdpbmcuQ29sb3IEAAAABG5hbWUFdmFs
+dWUKa25vd25Db2xvcgVzdGF0ZQEAAAAJBwcDAAAACgAAAAAAAAAAlgABAAH7/////P///woAAAAA
+AAAAAKQAAQAB+v////z///8KAAAAAAAAAACWAAEAAfn////8////CgAAAAAAAAAAjQABAAH4////
+/P///woAAAAAAAAAAKQAAQAB9/////z///8KAAAAAAAAAACWAAEACw==</value></data></root>
